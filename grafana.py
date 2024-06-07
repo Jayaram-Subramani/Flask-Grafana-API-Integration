@@ -4,9 +4,9 @@ import json
 
 app = Flask(__name__)
 
-GRAFANA_URL = "http://app.autointelli.com:3000"
-GRAFANA_USERNAME = "admin"
-GRAFANA_PASSWORD = "Wigtra@autointelli1"
+GRAFANA_URL = "URL"
+GRAFANA_USERNAME = "Username"
+GRAFANA_PASSWORD = "Password1"
 
 common_headers = {
     "Content-Type": "application/json",
